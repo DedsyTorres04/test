@@ -9,7 +9,7 @@ package Numeros_primos;
 		  num=dt.nextInt();
           //se crea un if para determinar el numero primo
 		  if(num%3==2) {
-              //
+              // se verifica si el numero que ingreso es par 
 		  	System.out.println("el numero es primo");
 
 		  	}else {
