@@ -11,7 +11,7 @@ package Numeros_primos;
 		  if(num%3==2) {
               // se verifica si el numero que ingreso es par 
 		  	System.out.println("el numero es primo");
-
+              // se verifica si el njmero no es primo
 		  	}else {
 		  		System.out.println("el numero no es primo");
 		  }
