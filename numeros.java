@@ -7,7 +7,7 @@ package Numeros_primos;
 		  int num;
 		  System.out.println("Digite un numero");
 		  num=dt.nextInt();
-          //
+          //se crea un if para determinar el numero primo
 		  if(num%3==2) {
 		  	System.out.println("el numero es primo");
 
